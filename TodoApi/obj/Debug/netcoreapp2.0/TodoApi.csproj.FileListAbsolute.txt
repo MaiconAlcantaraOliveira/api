@@ -1,0 +1,20 @@
+C:\Documents and Settings\maicon\Documents\TCC\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Documents and Settings\maicon\Documents\TCC\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+C:\Documents and Settings\maicon\Documents\TCC\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+C:\Users\maicon\Documents\TCC\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\maicon\Documents\TCC\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\maicon\Documents\TCC\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+C:\Users\maicon\Documents\TCC\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+C:\Users\maicon\Documents\TCC\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+C:\Users\maicon\Documents\TCC\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+C:\Users\maicon\Documents\TCC\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\maicon\Documents\TCC\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\maicon\Documents\TCC\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\maicon\Documents\TCC\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Documents and Settings\maicon\Documents\TCC\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+C:\Documents and Settings\maicon\Documents\TCC\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+C:\Documents and Settings\maicon\Documents\TCC\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+C:\Documents and Settings\maicon\Documents\TCC\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+C:\Documents and Settings\maicon\Documents\TCC\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Documents and Settings\maicon\Documents\TCC\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+C:\Documents and Settings\maicon\Documents\TCC\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
